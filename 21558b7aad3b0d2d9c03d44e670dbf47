@@ -1,24 +1,11 @@
-Brian.Stelter.dossier
-
- /Wiki/
-  http://archive.fo/WDHWD
- 
- /Current.works/
-  /Blog/
-  http://reliablesources.blogs.cnn.com/tag/cnns-brian-stelter/
-  
-  /Podcasts/
-   http://feeds.adknit.com/app-search/cnn/reliable-sources-with-brian-stelter/all/720/200/
-  
- /Contact/
-  http://archive.fo/tMKx3
-
- /Images/
-  
-  /Albums/
-   http://archive.fo/1agr6
-
-  /Threads/
-
-   /Pol/
-    http://archive.is/ydhOH
+{
+"name":"Brian Stelter",
+"wiki":"http://archive.fo/WDHWD",
+"contact":"http://archive.fo/tMKx3",
+"blog":"http://reliablesources.blogs.cnn.com/tag/cnns-brian-stelter/",
+"podcast":"http://feeds.adknit.com/app-search/cnn/reliable-sources-with-brian-stelter/all/720/200/",
+"images",
+"albums":"http://archive.fo/1agr6",
+"threads",
+"pol":"http://archive.is/ydhOH"
+}
